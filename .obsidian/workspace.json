@@ -149,15 +149,15 @@
   },
   "active": "90e589d2eb223761",
   "lastOpenFiles": [
-    "src/pages/application/unity/_core/unity_multiplayer.md",
+    "src/pages/application/unity/_core/unity_notes.md",
     "src/pages/application/unity/_core/unity_shader.md",
+    "src/pages/application/unity/_core/unity_multiplayer.md",
     "src/pages/application/unity/index.mdx",
     "src/pages/application/webserver/_core/crt.md",
     "src/pages/application/docker/_core/docker_cheatsheet.md",
     "application/zsh.md",
     "src/pages/media/ai/3/_core/3.md",
     "src/pages/application/kubernetes/_core/k3s.md",
-    "src/pages/application/kubernetes/_core/kubernetes_cheatsheet.md",
-    "src/pages/application/kubernetes/_core/kubernetes_storage.md"
+    "src/pages/application/kubernetes/_core/kubernetes_cheatsheet.md"
   ]
 }
